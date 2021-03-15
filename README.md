@@ -4,8 +4,8 @@
 
 
 ##### Bio
-- 🔭 I’m currently working on School Library App
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on Movies App
+- 🌱 I’m currently learning JavaScript and ReactJS
 
 ##### 🔗 Get in touch
 - Personal site: http://kristianvalco.eu
