@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-#### I'm a UI Designer living in Vranov nad Topľou, Slovakia.
+#### I'm a Frontend Developer living in Vranov nad Topľou, Slovakia.
 
 
 ##### Bio
