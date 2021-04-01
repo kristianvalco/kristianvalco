@@ -4,8 +4,8 @@
 
 
 ##### Bio
-- 🔭 I’m currently working on Movies App
-- 🌱 I’m currently learning JavaScript and ReactJS
+- 🔭 I'm currently working on a web application, ordering system for car mechanics in MERN Stack
+- 🌱 I'm currently learning JavaScript and ReactJS
 
 ##### 🔗 Get in touch
 - Personal site: http://kristianvalco.eu
