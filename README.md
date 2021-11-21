@@ -4,11 +4,10 @@
 
 
 ##### Bio
-- 🔭 I'm currently working on a web application, ordering system for car mechanics in MERN Stack
-- 🌱 I'm currently learning JavaScript and ReactJS
+- 💻 I'm currently working on a web application, ordering system for car mechanic in OctoberCMS
+- 📚 I'm currently learning JavaScript, React, PHP and OctoberCMS
 
 ##### 🔗 Get in touch
-- Personal site: http://kristianvalco.eu
 - Instagram: http://instagram.com/kristian.valco
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
