@@ -4,7 +4,7 @@
 
 
 ##### Bio
-- 💻 I'm currently working on a web application, ordering system for car mechanic in OctoberCMS
+- 💻 I'm currently working on ...
 - 📚 I'm currently learning JavaScript, React, PHP and OctoberCMS
 
 ##### 🔗 Get in touch
