@@ -2,11 +2,6 @@
 
 #### I'm a Frontend Developer living in Vranov nad Topľou, Slovakia.
 
-
-##### Bio
-- 💻 I'm currently working on ...
-- 📚 I'm currently learning JavaScript, React, PHP and OctoberCMS
-
 ##### 🔗 Get in touch
 - Instagram: http://instagram.com/kristian.valco
 
