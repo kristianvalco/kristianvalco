@@ -3,7 +3,8 @@
 #### I'm a Frontend Developer living in Vranov nad Topľou, Slovakia.
 
 ##### 🔗 Get in touch
-- Instagram: http://instagram.com/kristian.valco
+- Instagram: https://instagram.com/kristian.valco
+- Website: https://kristianvalco.sk
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
